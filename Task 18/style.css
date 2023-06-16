@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    background-color: rgb(130, 127, 127);
+    box-sizing: border-box;
+    width: 49%;
+}
+#country1{
+    gap: 50px;
+    background-color: rgb(158, 154, 154);
+    border: 1px solid rgb(250, 244, 244);
+    padding: 10px;
+    margin: 10px 10px;
+    text-align: center;
+}
+#country1 h3{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#country2{
+    gap: 50px;
+    background-color: rgb(158, 154, 154);
+    border: 1px solid rgb(248, 243, 243);
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 10px;
+    text-align: center;
+}
+#country2 h3{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#country3{
+    gap: 50px;
+    background-color: rgb(158, 154, 154);
+    border: 1px solid rgb(251, 246, 246);
+    padding: 10px;
+    margin: 10px 10px;
+    text-align: center;
+}
+#country3 h3{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
